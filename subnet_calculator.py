@@ -1,3 +1,5 @@
+#Code for fun
+
 import ipaddress
 import time
 import sys
